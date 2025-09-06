@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
     ProductFrameworksResDevice \
     SettingsResDevice \
     SystemUIResDevice \
+    TurboPowerOverlay \
     WifiResDevice
 
 # Audio
